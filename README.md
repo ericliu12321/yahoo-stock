@@ -2,6 +2,8 @@
 pip install requests <br>
 pip install beautifulsoup4 <br>
 
+python stock.py > stock-{date}.txt
+
 Result is something like this for all sectors
 <pre>
 https://finance.yahoo.com/sector/ms_basic_materials
