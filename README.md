@@ -6,7 +6,7 @@ python stock.py > stock-{date}.txt
 
 Result is something like this for all sectors
 <pre>
-https://finance.yahoo.com/sector/ms_basic_materials
+
 
 Symbol CompanyName Price Price-change PriceChangePercent AverageVol 3MonthVol MarketCap PE-Ratio Sector
 
