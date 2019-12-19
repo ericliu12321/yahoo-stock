@@ -2,7 +2,7 @@
 pip install requests <br>
 pip install beautifulsoup4 <br>
 
-Result is something like this:
+Result is something like this for all sectors
 <pre>
 https://finance.yahoo.com/sector/ms_basic_materials
 
